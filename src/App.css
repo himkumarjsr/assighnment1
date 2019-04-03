@@ -1,0 +1,25 @@
+.app{
+  width: 95%;
+  /* margin: 5rem 5rem 5rem 5rem; */
+  padding-left: 5rem;
+  padding-top: 5rem;
+}
+
+.searchBar{
+  width: 100%
+}
+
+h3{
+  color: blue;
+}
+@media only screen and (max-width: 600px) {
+  .app{
+    width: 100%;
+    /* margin: 5rem 5rem 5rem 5rem; */
+    padding-left: 2rem;
+    padding-top: 5rem;
+  }
+  .mob-padding{
+    padding-left: 2rem;
+  }
+}
